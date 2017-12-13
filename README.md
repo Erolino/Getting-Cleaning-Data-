@@ -1,6 +1,6 @@
 # Getting-Cleaning-Data-
 ## the file is submitted in the scope of Coursera's "Getting & Cleaning Data" final project 
-### The script's objective is to download trainning and data sets, 
+#### The script's objective is to download trainning and data sets, 
 ### to organize, filter and group the data, and merge the "cleaned" data sets into one   
 ### The script does the following:
 ### - creates a directory and saves a zip file using URL and reads it into R
